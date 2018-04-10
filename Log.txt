@@ -1,0 +1,1 @@
+// here we would store a log of all the commands the user has entered // 
